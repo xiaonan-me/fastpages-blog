@@ -1,1 +1,1 @@
-Sitemap: https://xiaonan-me.github.io/fastpages-blog/sitemap.xml
+Sitemap: https://xiaonan.me/sitemap.xml
